@@ -24,16 +24,16 @@ export const skillList = [
         skillUrl: 'https://madhavbahl.tech/portfolio-assets/node.png',
     },
     {
-        skillName: 'TypeScript',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/ts.png',
-    },
+        skillName: 'C++',
+        skillUrl: "https://img.icons8.com/color/144/ffffff/c-plus-plus-logo.png",
+    },    
+    {
+        skillName: 'Python',
+        skillUrl: "https://img.icons8.com/color/144/ffffff/python.png",
+    }, 
     {
         skillName: 'Java',
         skillUrl: 'https://madhavbahl.tech/portfolio-assets/java.png',
-    },
-    {
-        skillName: 'C#',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/cs.png',
     },
     {
         skillName: 'MongoDB',

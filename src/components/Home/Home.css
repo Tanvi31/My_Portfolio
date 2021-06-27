@@ -59,3 +59,64 @@
     border-radius: 39px;
     margin: 4px;
 }
+
+.btn-white{
+    background: #fff;
+    color: #112d57;
+}
+
+.btn-transparent{
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    border-radius: 39px;
+    color: #fff;
+}
+
+.btn:hover{
+    box-shadow: 1px 10px 32px rgba(0, 0, 0, 0.45);
+    transition: all 0.35 ease-in-out;
+}
+
+.btn-text {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0.2px;
+    text-align: center;
+}
+
+.splash-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-anime {
+    margin-bottom: -80px;
+}
+
+/* For small height screen sizes */
+
+@media only screen and (max-height: 550px) {
+    .home-anime {
+        width: 400px;
+    }
+}
+    
+/* For small width screens */
+
+@media only screen and (max-height: 550px) {
+    .home-anime {
+        width: 80%;
+        align-self: center;
+        margin-bottom: -20px;
+    }
+
+    .head-btns {
+        margin: 10px 10px 35px 10px;
+    }
+}
+
+

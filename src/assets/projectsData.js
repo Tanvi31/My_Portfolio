@@ -1,46 +1,30 @@
 export const projectsData = [
     {
-        projectName: 'Name It!',
+        projectName: 'Video-Conference',
         projectDescription:
-            'Do you find it difficult to name your projects or ventures? Fear not! Check out this cool name suggestion application which will help you find the best name for your next project, venture, or startup. Keep building!',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj1.PNG',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NqJvvQ7-l9bUHHS6bMCkgo0',
-        projectUrl: 'http://theleanprogrammer.com/name-it/',
+            'A video call android app, where the user will create an account and can initiate or recieve the video call. I have used cloud fire store database and Jitsi Meet.',
+        imageUrl: "https://www.payetteforward.com/wp-content/uploads/2019/05/what-is-video-calling.jpg",
+        projectUrl: "https://github.com/Tanvi31/Video_Conference",
     },
     {
-        projectName: 'FlashType',
+        projectName: 'Photobia',
         projectDescription:
-            'Having a good typing speed will always help you as a developer! Here, I present you the typing speed test application, where you can check your typing speed (in wpm) and share the results with your friends too.',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj2.PNG',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY',
-        projectUrl: 'http://theleanprogrammer.com/flashtype/',
+            'Photobia is an Instagram Clone created using MERN stack. You can customize each feature and functionality. We provide a simple, easy & seamless user experience. It is optimised to support numerous operations in real-time, with minimal delay.',
+        imageUrl: 'https://codecanyon.img.customer.envatousercontent.com/files/250363912/zapinsta590x300.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=0b12e04bd498b409c154bc13c5ce3fb4',
+        projectUrl: 'https://github.com/Tanvi31',
     },
     {
-        projectName: 'Flexbox Cheatsheet',
+        projectName: 'Detection of Malaria cells using CNN',
         projectDescription:
-            'A frontend web developer must know the concepts of CSS Flexbox. So here is a CSS Flexbox cheatsheet, built using CSS Flexbox. Learn the concepts of flexbox by building a cheatsheet which is built using flexbox. Super cool!',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj3.PNG',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
-        projectUrl: 'http://theleanprogrammer.com/flex/',
-    },
-    {
-        projectName: 'PokeDex',
-        projectDescription:
-            "Pokemon was a huge part of our childhood, wasn't it? Talking about pokemon brings back so many memories, but do you remember the details of each pokemon? Probably No! So here I bring you a pokedex to check all pokemons :)",
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj4.PNG',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrjM7mUiSmpKfUntwEcgMB3',
-        projectUrl: 'http://theleanprogrammer.com/pokedex/',
+            'This work is to build a convolutional neural network to expertly detect the presence of malaria parasitized cells in the thin blood smear. The model is constructed as small and computationally efficient to obtain the highest level of accuracy possible.',
+        imageUrl: 'https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201408/MIT-Malaria-Rick-Jan-Kluitenberg.jpg?itok=oAZQKkoF',
+        projectUrl: "https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria",
     },
     {
         projectName: 'Portfolio Website',
         projectDescription:
-            'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I bring you a tutorial to make your own website.',
+            'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits.',
         imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj5.PNG',
-        videoUrl: 'http://theleanprogrammer.com/aam',
-        projectUrl: 'http://madhavbahl.tech/portfolio/',
+        projectUrl: 'https://github.com/Tanvi31/Portfolio',
     },
 ];
